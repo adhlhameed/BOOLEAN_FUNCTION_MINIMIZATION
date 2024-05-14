@@ -32,7 +32,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-
+```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: Adhl Hameed
@@ -56,7 +56,7 @@ and g3(u,w,z);
 or g4(f2,s,t,u);
 endmodule
 */
-
+```
 
 **RTL realization**
 ![image](https://github.com/adhlhameed/BOOLEAN_FUNCTION_MINIMIZATION/assets/168260238/f5d621a7-9787-4cae-9b02-5cb4e91620f4)
